@@ -1,0 +1,5 @@
+C:\Users\donch\source\repos\Solution2\LogoHandler\bin\Debug\LogoHandler.dll
+C:\Users\donch\source\repos\Solution2\LogoHandler\bin\Debug\LogoHandler.pdb
+C:\Users\donch\source\repos\Solution2\LogoHandler\obj\Debug\LogoHandler.csprojAssemblyReference.cache
+C:\Users\donch\source\repos\Solution2\LogoHandler\obj\Debug\LogoHandler.dll
+C:\Users\donch\source\repos\Solution2\LogoHandler\obj\Debug\LogoHandler.pdb

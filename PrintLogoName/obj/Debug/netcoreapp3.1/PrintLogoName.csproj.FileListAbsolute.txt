@@ -1,0 +1,14 @@
+C:\Users\donch\source\repos\Solution2\PrintLogoName\bin\Debug\netcoreapp3.1\PrintLogoName.exe
+C:\Users\donch\source\repos\Solution2\PrintLogoName\bin\Debug\netcoreapp3.1\PrintLogoName.deps.json
+C:\Users\donch\source\repos\Solution2\PrintLogoName\bin\Debug\netcoreapp3.1\PrintLogoName.runtimeconfig.json
+C:\Users\donch\source\repos\Solution2\PrintLogoName\bin\Debug\netcoreapp3.1\PrintLogoName.runtimeconfig.dev.json
+C:\Users\donch\source\repos\Solution2\PrintLogoName\bin\Debug\netcoreapp3.1\PrintLogoName.dll
+C:\Users\donch\source\repos\Solution2\PrintLogoName\bin\Debug\netcoreapp3.1\PrintLogoName.pdb
+C:\Users\donch\source\repos\Solution2\PrintLogoName\obj\Debug\netcoreapp3.1\PrintLogoName.csprojAssemblyReference.cache
+C:\Users\donch\source\repos\Solution2\PrintLogoName\obj\Debug\netcoreapp3.1\PrintLogoName.AssemblyInfoInputs.cache
+C:\Users\donch\source\repos\Solution2\PrintLogoName\obj\Debug\netcoreapp3.1\PrintLogoName.AssemblyInfo.cs
+C:\Users\donch\source\repos\Solution2\PrintLogoName\obj\Debug\netcoreapp3.1\PrintLogoName.dll
+C:\Users\donch\source\repos\Solution2\PrintLogoName\obj\Debug\netcoreapp3.1\PrintLogoName.pdb
+C:\Users\donch\source\repos\Solution2\PrintLogoName\bin\Debug\netcoreapp3.1\LogoHandler.dll
+C:\Users\donch\source\repos\Solution2\PrintLogoName\bin\Debug\netcoreapp3.1\LogoHandler.pdb
+C:\Users\donch\source\repos\Solution2\PrintLogoName\obj\Debug\netcoreapp3.1\PrintLogoName.csproj.CopyComplete
